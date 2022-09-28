@@ -24,11 +24,13 @@ public class ProvaAuto {
        // Auto a[];
 
        // a = new Auto[10];
-        //String stringa = input.next();
+        //Strbbing stringa = input.next();
         //a[0].setMarca(stringa);
-    // Auto a1 = new Auto("");
+      // Auto a1 = new Auto("");
         
         
+      
+      
         
     
     }
